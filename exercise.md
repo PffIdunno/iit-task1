@@ -47,17 +47,17 @@ Key idea: Tasks are automated; jobs are redesigned.
 
 <h2>3) Who’s at risk, who benefits?</h2>
 
-Higher exposure (declining demand without reskilling):  
+<b>Higher exposure (declining demand without reskilling)</b>:  
 - Routine office support & clerical roles (data entry, scheduling, basic reporting).  
 - High‑volume customer support that is largely scriptable.  
 - Repetitive content generation without domain expertise.
 
-Lower exposure / likely complemented:  
+<b>Lower exposure / likely complemented</b>:  
 - Roles with complex human interaction (healthcare, education, management).  
 - Skilled trades and on‑site physical work (until robots catch up).  
 - Jobs requiring domain knowledge + judgement + accountability (software, product, data, law—augmented rather than replaced).
 
-Early career boost: The contact‑center study and lab experiments show AI can encode and spread best practices, letting juniors perform closer to seniors sooner. That raises productivity—and sometimes wage pressure—but may also compress career ladders unless organizations redesign roles.
+<b>Early career boost</b>: The contact‑center study and lab experiments show AI can <b>encode and spread best practices</b>, letting juniors perform closer to seniors sooner. That raises <b>productivity</b>—and sometimes <b>wage pressure—</b>but may also <b>compress career ladders</b> unless organizations redesign roles.
 
 ---
 

@@ -28,9 +28,9 @@ Key idea: Tasks are automated; jobs are redesigned.
 
 <h2>2) What the best recent evidence says</h2>
 
-Short‑term productivity effects (micro evidence).  
-- A large field study in a Fortune 500 contact center found that giving agents a generative‑AI assistant increased issues resolved per hour by ~14%, with the biggest gains for the least‑experienced agents—and better customer sentiment.[^nber]  
-- A preregistered experiment with 444 professionals on writing tasks showed time to complete fell ~37% and quality rose ~0.4 SD with access to a chatbot; benefits were strongest for lower‑ability writers.[^noyzhang]
+<b>Short‑term productivity effects (micro evidence).</b>  
+- A large field study in a Fortune 500 contact center found that giving agents a generative‑AI assistant increased <b>issues resolved per hour by ~14%</b>, with the <b>biggest gains for the least‑experienced agents—</b>and better customer sentiment.[^nber]  
+- A preregistered experiment with 444 professionals on writing tasks showed <b>time to complete fell ~37%</b> and <b>quality rose ~0.4 SD</b> with access to a chatbot; benefits were strongest for lower‑ability writers.[^noyzhang]
 
 Medium‑term labor‑market exposure (macro evidence).  
 - The IMF estimates about 40% of global employment is exposed to AI (higher in advanced economies), with mixed effects: some jobs will be complemented (higher productivity, possibly higher wages), others displaced.[^imfblog]  
@@ -121,8 +121,8 @@ AI will take parts of many jobs and create parts of new jobs. Some roles will sh
 
 <h2>#Endnotes (inline citations)</h2>
 
-<u colour="blue">[^nber]</u>: Brynjolfsson, E. et al. (2023). Generative AI at Work. NBER Working Paper w31161.  
-<u colour="blue">[^noyzhang]</u>: Noy, S. & Zhang, W. (2023). Experimental Evidence on the Productivity Effects of Generative AI. MIT Working Paper.  
-<u colour="blue">[^imfblog]</u>: Georgieva, K. (2024). AI Will Transform the Global Economy. Let’s Make Sure It Benefits Humanity. IMF Blog.  
-<u colour="blue">[^ilo]</u>: ILO (2023). Generative AI and Jobs: A global analysis of potential effects on job quantity and quality.  
-<u colour="blue">[^oecd]</u>: OECD (2023). Employment Outlook: Artificial
+[^nber]: Brynjolfsson, E. et al. (2023). Generative AI at Work. NBER Working Paper w31161.  
+[^noyzhang]: Noy, S. & Zhang, W. (2023). Experimental Evidence on the Productivity Effects of Generative AI. MIT Working Paper.  
+[^imfblog]: Georgieva, K. (2024). AI Will Transform the Global Economy. Let’s Make Sure It Benefits Humanity. IMF Blog.  
+[^ilo]: ILO (2023). Generative AI and Jobs: A global analysis of potential effects on job quantity and quality.  
+[^oecd]: OECD (2023). Employment Outlook: Artificial

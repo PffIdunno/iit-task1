@@ -32,16 +32,16 @@ Key idea: Tasks are automated; jobs are redesigned.
 - A large field study in a Fortune 500 contact center found that giving agents a generative‑AI assistant increased <b>issues resolved per hour by ~14%</b>, with the <b>biggest gains for the least‑experienced agents—</b>and better customer sentiment.[^nber]  
 - A preregistered experiment with 444 professionals on writing tasks showed <b>time to complete fell ~37%</b> and <b>quality rose ~0.4 SD</b> with access to a chatbot; benefits were strongest for lower‑ability writers.[^noyzhang]
 
-Medium‑term labor‑market exposure (macro evidence).  
-- The IMF estimates about 40% of global employment is exposed to AI (higher in advanced economies), with mixed effects: some jobs will be complemented (higher productivity, possibly higher wages), others displaced.[^imfblog]  
-- An ILO global analysis (using ISCO data + GPT‑4 task mapping) suggests most occupations are more exposed to augmentation than full automation; clerical work shows the highest automation exposure.[^ilo]  
-- The OECD Employment Outlook finds early deployments more often change job quality and tasks than reduce employment outright—so far. Effects on job quantity may lag adoption.[^oecd]
+<b>Medium‑term labor‑market exposure (macro evidence)</b>.  
+- The <b>IMF</b> estimates about <b>40% of global employment</b> is exposed to AI (higher in advanced economies), with mixed effects: some jobs will be complemented (higher productivity, possibly higher wages), others displaced.[^imfblog]  
+- An <b>ILO</b> global analysis (using ISCO data + GPT‑4 task mapping) suggests most occupations are <b>more exposed to augmentation than full automation</b>; clerical work shows the highest automation exposure.[^ilo]  
+- The <b>OECD Employment Outlook</b> finds early deployments more often <b>change job quality and tasks</b> than reduce employment outright—so far. Effects on job quantity may lag adoption.[^oecd]
 
-Forecasts (always uncertain).  
-- The WEF Future of Jobs 2025 projects ~170 million jobs created and ~92 million displaced globally by 2030 (a net +78 million), driven by tech, green transition, and demographics. Skills needs will shift toward AI/data, cybersecurity, and adaptability.[^wef2025]  
-- McKinsey modeling suggests ~27–30% of hours in Europe/US could be automated by 2030 (genAI accelerates this), implying millions of occupational transitions and a major skills upgrade agenda.[^mgi2024]
+<b>Forecasts (always uncertain)</b>.  
+- The <b>WEF Future of Jobs 2025</b> projects ~<b>170 million jobs created</b> and ~<b>92 million displaced</b> globally by 2030 (a <b>net +78 million</b>), driven by tech, green transition, and demographics. Skills needs will shift toward AI/data, cybersecurity, and adaptability.[^wef2025]  
+- <b>McKinsey</b> modeling suggests ~<b>27–30% of hours</b> in Europe/US could be automated by 2030 (genAI accelerates this), implying millions of <b>occupational transitions</b> and a major <b>skills upgrade</b> agenda.[^mgi2024]
 
-Takeaway: In the near term, AI looks more like a broad productivity booster and task reshuffler than a universal job destroyer. Over time, transitions could be large—and uneven.
+<b>Takeaway</b>: In the near term, AI looks more like a <b>broad productivity booster</b> and <b>task reshuffler</b> than a universal job destroyer. Over time, transitions could be large—and uneven.
 
 ---
 

@@ -1,8 +1,8 @@
 <h1>Will AI Take Our Jobs?</h1>  
 
-CAUTION: This is AI-generated overview on the given topic.
+>CAUTION: This is AI-generated overview on the given topic.
 
-<b>TL;DR</b>: AI won’t replace all jobs, but it will reshape <b>tasks</b> within most jobs, speed up some careers, diminish others, and create new roles. The outcome depends on how we adopt AI, <b>how</b> quickly we <b>reskill</b>, and which <b>policies</b> we put in place.
+><b>TL;DR</b>: AI won’t replace all jobs, but it will reshape <b>tasks</b> within most jobs, speed up some careers, diminish others, and create new roles. The outcome depends on how we adopt AI, <b>how</b> quickly we <b>reskill</b>, and which <b>policies</b> we put in place.
 
 ---
 
@@ -22,7 +22,7 @@ A good rule of thumb:
 | Experience → productivity gains. | AI can <b>compress the experience curve for juniors</b>. |
 | Skills decay without practice. | Continuous learning + AI tools becomes part of the job. |
 
-Key idea: Tasks are automated; jobs are redesigned.
+>Key idea: Tasks are automated; jobs are redesigned.
 
 ---
 
@@ -41,7 +41,7 @@ Key idea: Tasks are automated; jobs are redesigned.
 - The <b>WEF Future of Jobs 2025</b> projects ~<b>170 million jobs created</b> and ~<b>92 million displaced</b> globally by 2030 (a <b>net +78 million</b>), driven by tech, green transition, and demographics. Skills needs will shift toward AI/data, cybersecurity, and adaptability.[^wef2025]  
 - <b>McKinsey</b> modeling suggests ~<b>27–30% of hours</b> in Europe/US could be automated by 2030 (genAI accelerates this), implying millions of <b>occupational transitions</b> and a major <b>skills upgrade</b> agenda.[^mgi2024]
 
-<b>Takeaway</b>: In the near term, AI looks more like a <b>broad productivity booster</b> and <b>task reshuffler</b> than a universal job destroyer. Over time, transitions could be large—and uneven.
+><b>Takeaway</b>: In the near term, AI looks more like a <b>broad productivity booster</b> and <b>task reshuffler</b> than a universal job destroyer. Over time, transitions could be large—and uneven.
 
 ---
 
@@ -68,7 +68,7 @@ Key idea: Tasks are automated; jobs are redesigned.
 3. <b>Skills portfolio</b> updates: promptcraft, toolchain literacy (APIs, automation), security/privacy hygiene, critical reading of AI output.  
 4. <b>Metrics</b> change: throughput and cycle time improve; judgement errors (hallucinations, misclassifications) become the new bottlenecks to manage.
 
-<b>Design principle for teams</b>: Automate the boring, amplify the human.
+><b>Design principle for teams</b>: Automate the boring, amplify the human.
 
 ---
 
@@ -97,7 +97,7 @@ A simple checklist for any AI‑assisted task:
 - <b>Guardrails</b>: data protection, bias testing, provenance/watermarking, and incident response.  
 - <b>Safety nets</b>: transition support where displacement is concentrated.  
 
-<b>Reality check</b>: AI’s net effects depend on <b>choices—</b>of firms (deployment), governments (policy), and individuals (skills).
+><b>Reality check</b>: AI’s net effects depend on <b>choices—</b>of firms (deployment), governments (policy), and individuals (skills).
 
 ---
 

@@ -1,8 +1,8 @@
 <h1>Will AI Take Our Jobs?</h1>  
 
-|CAUTION: This is AI-generated overview on the given topic.
+CAUTION: This is AI-generated overview on the given topic.
 
-|<b>TL;DR</b>: AI won’t replace all jobs, but it will reshape <b>tasks</b> within most jobs, speed up some careers, diminish others, and create new roles. The outcome depends on how we adopt AI, <b>how</b> quickly we <b>reskill</b>, and which <b>policies</b> we put in place.
+<b>TL;DR</b>: AI won’t replace all jobs, but it will reshape <b>tasks</b> within most jobs, speed up some careers, diminish others, and create new roles. The outcome depends on how we adopt AI, <b>how</b> quickly we <b>reskill</b>, and which <b>policies</b> we put in place.
 
 ---
 
@@ -121,8 +121,8 @@ AI will take parts of many jobs and create parts of new jobs. Some roles will sh
 
 <h2>#Endnotes (inline citations)</h2>
 
-[^nber]: Brynjolfsson, E. et al. (2023). Generative AI at Work. NBER Working Paper w31161.  
-[^noyzhang]: Noy, S. & Zhang, W. (2023). Experimental Evidence on the Productivity Effects of Generative AI. MIT Working Paper.  
-[^imfblog]: Georgieva, K. (2024). AI Will Transform the Global Economy. Let’s Make Sure It Benefits Humanity. IMF Blog.  
-[^ilo]: ILO (2023). Generative AI and Jobs: A global analysis of potential effects on job quantity and quality.  
-[^oecd]: OECD (2023). Employment Outlook: Artificial
+<u colour="blue">[^nber]</u>: Brynjolfsson, E. et al. (2023). Generative AI at Work. NBER Working Paper w31161.  
+<u colour="blue">[^noyzhang]</u>: Noy, S. & Zhang, W. (2023). Experimental Evidence on the Productivity Effects of Generative AI. MIT Working Paper.  
+<u colour="blue">[^imfblog]</u>: Georgieva, K. (2024). AI Will Transform the Global Economy. Let’s Make Sure It Benefits Humanity. IMF Blog.  
+<u colour="blue">[^ilo]</u>: ILO (2023). Generative AI and Jobs: A global analysis of potential effects on job quantity and quality.  
+<u colour="blue">[^oecd]</u>: OECD (2023). Employment Outlook: Artificial
